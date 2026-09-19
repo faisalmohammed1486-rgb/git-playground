@@ -6,3 +6,4 @@ date : 19th sept 2026...
 - learn basic git cmds
 - init, add . , commit , push
 - lvl2
+-hello
