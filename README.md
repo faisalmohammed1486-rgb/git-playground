@@ -7,3 +7,6 @@ date : 19th sept 2026...
 - init, add . , commit , push
 - lvl2
 -hello
+## About
+
+This branch is for the About section.
